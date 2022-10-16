@@ -4,7 +4,7 @@
 <a href="https://github.com/Sulaiman5" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sulaiman5?label=Github%20followers&style=plastic&color=32CD32">
 </a> 
-<img alt="Age" src="https://img.shields.io/badge/Age-22-%23FF0000.svg?style=plastic&color=32CD32">
+<img alt="Age" src="https://img.shields.io/badge/Age-29-%23FF0000.svg?style=plastic&color=32CD32">
 <img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
 <br>
 </p>
@@ -20,11 +20,11 @@
 <picture> <img align="right" src="https://github.com/Sulaiman5/Sulaiman5/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
--  I am a professional full stack developer at `Automation services limited`.
+-  I am a professional full stack Java developer at `Automation services limited`.
 -  interested in programming<br>
 -  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
 -  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
--  Looking to collaborate on Web development using `React`/`Angular`.... <br>
+-  Looking to collaborate on Web development using `Java`/`Angular`.... <br>
 
 <br>
 <br>
@@ -45,7 +45,7 @@
 <br>
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+[![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
 <br>
 
 
@@ -162,7 +162,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   	<a href="https://Sulaiman5.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:Sulaiman5@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:mdsulaiman535@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Sulaiman5" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/Sulaiman5/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/Sulaiman5/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
@@ -173,4 +173,4 @@
 <br>
 <br>
 <hr>
-Credits: <a href="https://github.com/Sulaiman5">Sulaiman5</a>
+Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
