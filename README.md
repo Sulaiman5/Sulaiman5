@@ -28,27 +28,6 @@
 
 <br>
 <br>
-
-<h2>👀 My github Stats</h2> 
-
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaiman5" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=Sulaiman5&show_icons=true&include_all_commits=true)  &emsp; &emsp;
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaiman5&theme=white-green)
-
-<br>
-<br>
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
-<br>
-<br>
-<br>
     <br>
     <section class="section about-me" data-section="section1">
       <div class="container"><br>
@@ -156,8 +135,124 @@
         </table>
       </div>
     </section>
+<br><br><br>
+    <section class="section my-services" data-section="section2">
+      <div class="container text-center"><br>
+        <div class="">
+          <h2>Skills &amp; Education</h2><hr class="bg-secondary">
+          <div class="line-dec"></div>
+          <span><h5>Here is some of my Skills, Currenty I am working on Spring Boot and Angular</h5> </span>
+        </div><br>
+        <table class="table table-bordered nav-item">
+          <thead>
+            <tr>
+              <th class="text-center" scope="col">#</th>
+              <th class="text-center" scope="col">Topics</th>
+              <th class="text-center" scope="col">Skills</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-center"> 01 </td>
+              <td class="text-left"> Programming &amp; Markup Language   </td>
+              <td class="text-left">Java, JavaScript, Typescript, HTML, UML, XML</td>
+            </tr>
+            <tr>
+              <td class="text-center"> 02 </td>
+              <td class="text-left">Framework</td>
+              <td class="text-left">Spring, Spring Boot, Angular, Hibernate, Java-FX, Swing, Jasper Report, FOP Report etc.</td>
+            </tr>
+            <tr>
+              <td class="text-center"> 03 </td>
+              <td class="text-left"> Database </td>
+              <td class="text-left">MySQL, Oracle 11g, SQLite</td>
+            </tr>
+            <tr>
+              <td class="text-center"> 04 </td>
+              <td class="text-left">Web Designing </td>
+              <td class="text-left">HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax</td>
+            </tr>
+            <tr>
+              <td class="text-center"> 05 </td>
+              <td class="text-left">IDE (Used to) </td>
+              <td class="text-left">Eclipse(STS), NetBeans, Android Studio, Visual Studio Code</td>
+            </tr>
+            <tr>
+              <td class="text-center"> 06 </td>
+              <td class="text-left">OS</td>
+              <td class="text-left">Windows</td>
+            </tr>
+            <tr>
+              <td class="text-center"> 07 </td>
+              <td class="text-left">Others</td>
+              <td class="text-left">MS Office, GitHub</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <div class="text-left nav-item" style="width: 100%; border-radius: 10px;">
+             <h4> ❖ Languages:&nbsp;&nbsp;  <small>➀ Bengali &nbsp;&nbsp;&nbsp; ➁ English &nbsp;&nbsp;&nbsp;  ➂ Arabic (Speaking) </small> </h4>
+        </div>
+        <br>
+          <table class="table table-bordered nav-item" style="width: 100%; ">
+            <thead>
+              <tr>
+                <th class="text-center" scope="col">Degree</th>
+                <th class="text-center" scope="col">GPA/CGPA</th>
+                <th class="text-center" scope="col">Institutions</th>
+                <th class="text-center" scope="col">Duration</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="text-center">M.A</td>
+                <td class="text-center"> 3.33 out of 4  </td>
+                <td class="text-center">Islamic Stadies, University of Dhaka</td>
+                <td class="text-center">1 Year</td>
+              </tr>
+              <tr>
+                <td class="text-center">B.A</td>
+                <td class="text-center">3.35 out of 4	</td>
+                <td class="text-center">Islamic Stadies, National University</td>
+                <td class="text-center">4 Year</td>
+              </tr>
+              <tr>
+                <td class="text-center"> H.S.C  </td>
+                <td class="text-center"> 3.25 out of 5 </td>
+                <td class="text-center">Gozri Islamia Fazil Madrasha</td>
+                <td class="text-center">2 Year</td>
+              </tr>
+              <tr>
+                <td class="text-center"> S.S.C  </td>
+                <td class="text-center">4.31 out of 5 </td>
+                <td class="text-center">Chairman Bazar Islamia Dhakil Madrasah</td>
+                <td class="text-center">2 Year</td>
+              </tr>
+            </tbody>
+          </table>
+      </div>
+    </section>
+
+<h2>👀 My github Stats</h2> 
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaiman5" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=Sulaiman5&show_icons=true&include_all_commits=true)  &emsp; &emsp;
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaiman5&theme=white-green)
+
+<br>
 <br>
 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+[![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
+<br>
+<br>
+<br>
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
