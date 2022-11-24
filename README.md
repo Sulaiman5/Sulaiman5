@@ -47,10 +47,115 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 [![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
 <br>
-
-
 <br>
 <br>
+    <br>
+    <section class="section about-me" data-section="section1">
+      <div class="container"><br>
+        <div class=" text-center">
+          <h2>Professional Training</h2>
+          <hr class="bg-secondary">
+          <div class="line-dec"></div>
+          <span>
+            <h3>IsDB-BISEW IT Professional Diploma</h3>
+            <h4>IT Scholarship of Islamic Development Bank <small>(<a href="https://www.isdb-bisew.org" target="_blank" class="text-info"> https://www.isdb-bisew.org</a> )</small> </h4>
+            <h5>Enterprise Systems Analysis and Design-J2EE, Session (2020-2021)</h5>
+          </span>
+        </div><br>
+        <table class="table table-bordered nav-item">
+          <thead>
+            <tr>
+              <th class="text-center" scope="col">Module</th>
+              <th class="text-center" scope="col">Description</th>
+              <th class="text-center" scope="col">Course Duration (Hours)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-center">Module - 01</td>
+              <td>Computer Fundamentals (MS Office, Windows, Linux)</td>
+              <td class="text-center">120</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 02</td>
+              <td>Web Publishing (HTML, CSS, Bootstrap, JavaScript, jQuery)</td>
+              <td class="text-center">128</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 03</td>
+              <td>Web Publishing (HTML, CSS, Bootstrap, JavaScript, jQuery)</td>
+              <td class="text-center">120</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 04</td>
+              <td>Object Oriented Programming using JAVA (Core Java)</td>
+              <td class="text-center">140</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 05</td>
+              <td>Software Development using JAVA and XML (Java-FX, Swing, JDBC, MySQL)</td>
+              <td class="text-center">80</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 06</td>
+              <td>O-O System Analysis and Design using UML</td>
+              <td class="text-center">60</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 07</td>
+              <td>Server-Side Programming using Servlets, JSP, JSTL, Hibernate, Angular</td>
+              <td class="text-center">172</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 08</td>
+              <td>Spring, Spring Boot, Jasper Report</td>
+              <td class="text-center">136</td>
+            </tr>
+            <tr>
+              <td class="text-center">Module - 09</td>
+              <td>Oracle Certified Java Programmer &amp; Mobile Application using Android</td>
+              <td class="text-center">104</td>
+            </tr>
+            <tr>
+              <td class="text-right" colspan="2"> Full Course Duration = </td>
+              <td class="text-center"> <b>1060</b></td>
+            </tr>
+          </tbody>
+        </table><br>
+        <table class="table table-bordered nav-item">
+          <thead>
+            <tr>
+              <th class="text-center">Training Summary</th>
+              <th class="text-center">Topic</th>
+              <th class="text-center">Institute</th>
+              <th class="text-center">Location</th>
+              <th class="text-center">Year</th>
+              <th class="text-center">Duration</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-center">Enterprise 
+                Systems 
+                Analysis and 
+                Design       (ESAD - JEE) 
+                </td>
+              <td>HTML, CSS, Sass, JavaScript, jQuery
+                Bootstrap, Oracle 11g, MySQL, JAVA, Swing,  XML, UML, OOP,
+                JSP, JSF, JSTL, El, Thymeleaf, Hibernate, 
+                Angular 6, Typescript, Spring MVC, 
+                Spring Boot, AOP, Spring Boot Security
+                Rest API, Multithreading, Jasper Report, Android using Java, SQL Lite, Firebase.
+                </td>
+              <td class="text-center">IsDB - BISEW</td>
+              <td class="text-center">Dhaka</td>
+              <td>2020 - 2021</td>
+              <td class="text-center">1 Year</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
 <br>
 
 
