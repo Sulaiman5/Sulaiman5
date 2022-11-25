@@ -13,10 +13,7 @@
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD+Sulaiman+Hawlader;professional+full+stack+developer;Laravel+%7C+Vue+js+%7C+Node+js+%7C+PHP+%7C+JavaScript;MySQL%20|%20MongoDB%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
-
 <br> 
-<br>
-
 <h2><picture> <img src = "https://github.com/Sulaiman5/Sulaiman5/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
 <picture> <img align="right" src="https://github.com/Sulaiman5/Sulaiman5/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
@@ -26,10 +23,8 @@
 -  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
 -  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
 -  Looking to collaborate on Web development using `Java`/`Angular`.... <br>
-
 <br>
 <br>
-    <br>
     <section class="section about-me" data-section="section1">
       <div class="container"><br>
         <div class=" text-center">
@@ -136,7 +131,7 @@
         </table>
       </div>
     </section>
-<br><br><br>
+<br><br>
     <section class="section my-services" data-section="section2">
       <div class="container text-center"><br>
         <div class="">
@@ -237,7 +232,7 @@
 <h2>👀 My github Stats</h2> 
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <b><em>GitHub Stats:</em></b>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaiman5" alt="GitHub Stats" /> <br/><br/>
 </div>
 
@@ -342,20 +337,13 @@
     <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
   &emsp;
 </p>
-
 <br>
-<br>
-
-
 ##  🏆Github Profile Trophies
 <br>
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=Sulaiman5&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
 </p>
 <br>
-<br>
-
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   	<a href="https://Sulaiman5.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -365,9 +353,6 @@
 	<a href="https://www.facebook.com/Sulaiman5/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/Sulaiman5" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-
-
-<br>
 <br>
 <hr>
 Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
