@@ -238,12 +238,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaiman5&theme=white-green)
 
 <br>
-<br>
-&emsp; &emsp; &emsp; &emsp; &emsp;
-Sulaiman5's github ranking(https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)(https://github.com/Sulaiman5/github-readme-ranking)
-<br>
-<br>
-<br>
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -354,6 +348,7 @@ Sulaiman5's github ranking(https://github-readme-ranking.vercel.app/api/rank?use
 <br>
 <hr>
 Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
+           <h1>Contact Me</h1>
 <h5> ❖ Mailing address:   
  <small>Room No: 17/e, Shamibag land, Gandaria, Dhaka-100
  </small> </h5>
