@@ -317,7 +317,7 @@ div{
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.oracle.com/"><img alt="Oracle" height: 100px; width: 100px; src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></a>
+    <a href="https://www.oracle.com/"><img alt="Oracle" width="100px" height="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></a>
   &emsp;
 </p>
 
