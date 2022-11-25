@@ -1,22 +1,4 @@
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
 
-  <title>Topu Raihan</title>
-
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Additional CSS Files -->
-  <link rel="stylesheet" href="assets/css/fontawesome.css">
-  <link rel="stylesheet" href="assets/css/templatemo-style.css">
-  <link rel="stylesheet" href="assets/css/owl.css">
-  <link rel="stylesheet" href="assets/css/lightbox.css">
-</head>
-<body>
   <div id="page-wraper">
     <!-------------------------------// Sidebar Menu ---------------------------->
     <div class="responsive-nav ">
@@ -777,4 +759,4 @@
 
 
 
-<div id="lightboxOverlay" class="lightboxOverlay" style="width: 1349px; height: 6846px; display: none;"></div><div id="lightbox" class="lightbox" style="display: none; top: 5650px; left: 0px;"><div class="lb-outerContainer" style="width: 897px; height: 505px;"><div class="lb-container"><img class="lb-image" src="assets/images/portfolio-02.jpg" style="display: block; width: 897px; height: 505px;"><div class="lb-nav" style="display: block;"><a class="lb-prev" href="" style="display: block;"></a><a class="lb-next" href="" style="display: block;"></a></div><div class="lb-loader" style="display: none; opacity: 0.270675;"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer" style="display: block; width: 897px;"><div class="lb-data"><div class="lb-details"><span class="lb-caption" style="display: inline;">Caption</span><span class="lb-number">Image 5 of 6</span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
+<div id="lightboxOverlay" class="lightboxOverlay" style="width: 1349px; height: 6846px; display: none;"></div><div id="lightbox" class="lightbox" style="display: none; top: 5650px; left: 0px;"><div class="lb-outerContainer" style="width: 897px; height: 505px;"><div class="lb-container"><img class="lb-image" src="assets/images/portfolio-02.jpg" style="display: block; width: 897px; height: 505px;"><div class="lb-nav" style="display: block;"><a class="lb-prev" href="" style="display: block;"></a><a class="lb-next" href="" style="display: block;"></a></div><div class="lb-loader" style="display: none; opacity: 0.270675;"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer" style="display: block; width: 897px;"><div class="lb-data"><div class="lb-details"><span class="lb-caption" style="display: inline;">Caption</span><span class="lb-number">Image 5 of 6</span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div>
