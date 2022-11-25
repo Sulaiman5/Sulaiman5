@@ -1,55 +1,34 @@
 
-  <div id="page-wraper">
-    <!-------------------------------// Sidebar Menu ---------------------------->
-    <div class="responsive-nav ">
-      <i class="fa fa-bars" id="menu-toggle"></i>s
-      <div id="menu" class="menu  nav-item">
-        <!-- bg-dark -->
-        <i class="fa fa-times" id="menu-close"></i>
-        <div class="container ">
-          <div class="image text-center ">
-            <a href="#"><img src="assets/images/Topu.jpg" alt=""></a>
-          </div>
-          <div class="author-content">
-            <h4>Md. Topu Raihan</h4>
-            <span>Full Stack Developer (Java, Spring Boot, Angular)</span>
-          </div>
-          <nav class="main-nav" role="navigation">
-            <ul class="main-menu">
-              <li class="active"><a href="#section1">Professional Training</a></li>
-              <li class=""><a href="#section2">Skills &amp; Education</a></li>
-              <li class=""><a href="#section3">Work &amp; Experience</a></li>
-              <li class=""><a href="#section4">About Me</a></li>
-              <li class=""><a href="#section5">Contact Me</a></li>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD Sulaiman</h1>
 
-            </ul>
-          </nav>
-          <div class="social-network">
-            <ul class="soial-icons">
-              <li>
-                <a href="https://www.facebook.com/du.topuraihan/"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li>
-                <a href="https://twitter.com/topuraihan51"><i class="fa fa-twitter"></i></a>
-              </li>
-              <li>
-                <a href="https://www.linkedin.com/in/md-topu-raihan-a02115131/"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li>
-                <a href="https://github.com/raihantopu"><i class="fa fa-github"></i></a>
-              </li>
-              <li>
-                <a href="#"><i class="fa fa-rss"></i></a>
-              </li>
-            </ul>
-          </div>
-          <div class="copyright-text">
-            <p>Copyright &nbsp;<span class="text-info"><b> www.mtr.com - 2021 </b></span></p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!------------------------------- Sidebar Menu //---------------------------->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sulaiman5&label=Profile%20views&color=32CD32&style=plastic" alt="Sulaiman5"/>
+<a href="https://github.com/Sulaiman5" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sulaiman5?label=Github%20followers&style=plastic&color=32CD32">
+</a> 
+<img alt="Age" src="https://img.shields.io/badge/Age-29-%23FF0000.svg?style=plastic&color=32CD32">
+<img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
+<br>
+</p>
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD+Sulaiman+Hawlader;professional+full+stack+developer;Laravel+%7C+Vue+js+%7C+Node+js+%7C+PHP+%7C+JavaScript;MySQL%20|%20MongoDB%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+
+<br> 
+<br>
+
+<h2><picture> <img src = "https://github.com/Sulaiman5/Sulaiman5/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
+<picture> <img align="right" src="https://github.com/Sulaiman5/Sulaiman5/blob/main/images/computer.gif?raw=true" width = 250px></picture>
+<br><br>
+
+-  I am a professional full stack Java developer at `Automation services limited`.
+-  interested in programming<br>
+-  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
+-  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
+-  Looking to collaborate on Web development using `Java`/`Angular`.... <br>
+
+<br>
+<br>
     <br>
     <section class="section about-me" data-section="section1">
       <div class="container"><br>
@@ -57,15 +36,12 @@
           <h2>Professional Training</h2>
           <hr class="bg-secondary">
           <div class="line-dec"></div>
-
           <span>
             <h3>IsDB-BISEW IT Professional Diploma</h3>
             <h4>IT Scholarship of Islamic Development Bank <small>(<a href="https://www.isdb-bisew.org" target="_blank" class="text-info"> https://www.isdb-bisew.org</a> )</small> </h4>
             <h5>Enterprise Systems Analysis and Design-J2EE, Session (2020-2021)</h5>
           </span>
         </div><br>
-
-
         <table class="table table-bordered nav-item">
           <thead>
             <tr>
@@ -75,71 +51,57 @@
             </tr>
           </thead>
           <tbody>
-
             <tr>
               <td class="text-center">Module - 01</td>
               <td>Computer Fundamentals (MS Office, Windows, Linux)</td>
               <td class="text-center">120</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 02</td>
               <td>Web Publishing (HTML, CSS, Bootstrap, JavaScript, jQuery)</td>
               <td class="text-center">128</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 03</td>
-              <td>Web Publishing (HTML, CSS, Bootstrap, JavaScript, jQuery)</td>
+              <td>Database Development using Oracle 11g (Mysql, SQL, SQLite)</td>
               <td class="text-center">120</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 04</td>
               <td>Object Oriented Programming using JAVA (Core Java)</td>
               <td class="text-center">140</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 05</td>
               <td>Software Development using JAVA and XML (Java-FX, Swing, JDBC, MySQL)</td>
               <td class="text-center">80</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 06</td>
               <td>O-O System Analysis and Design using UML</td>
               <td class="text-center">60</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 07</td>
               <td>Server-Side Programming using Servlets, JSP, JSTL, Hibernate, Angular</td>
               <td class="text-center">172</td>
             </tr>
-
             <tr>
               <td class="text-center">Module - 08</td>
               <td>Spring, Spring Boot, Jasper Report</td>
               <td class="text-center">136</td>
             </tr>
-
-
             <tr>
               <td class="text-center">Module - 09</td>
               <td>Oracle Certified Java Programmer &amp; Mobile Application using Android</td>
               <td class="text-center">104</td>
             </tr>
-
-
             <tr>
               <td class="text-right" colspan="2"> Full Course Duration = </td>
               <td class="text-center"> <b>1060</b></td>
             </tr>
-
           </tbody>
         </table><br>
-
         <table class="table table-bordered nav-item">
           <thead>
             <tr>
@@ -152,16 +114,15 @@
             </tr>
           </thead>
           <tbody>
-
             <tr>
               <td class="text-center">Enterprise 
                 Systems 
                 Analysis and 
-                Design       (ESAD - JEE) 
+                Design (ESAD - JEE) 
                 </td>
-              <td>HTML, CSS, Sass, JavaScript, jQuery
+              <td>HTML, CSS, JavaScript, jQuery, Ajax,
                 Bootstrap, Oracle 11g, MySQL, JAVA, Swing,  XML, UML, OOP,
-                JSP, JSF, JSTL, El, Thymeleaf, Hibernate, 
+                JSP, JSF, JSTL, Thymeleaf, Hibernate, 
                 Angular 6, Typescript, Spring MVC, 
                 Spring Boot, AOP, Spring Boot Security
                 Rest API, Multithreading, Jasper Report, Android using Java, SQL Lite, Firebase.
@@ -171,17 +132,11 @@
               <td>2020 - 2021</td>
               <td class="text-center">1 Year</td>
             </tr>
-
           </tbody>
         </table>
-
-
-
       </div>
     </section>
-
-
-
+<br><br><br>
     <section class="section my-services" data-section="section2">
       <div class="container text-center"><br>
         <div class="">
@@ -189,7 +144,6 @@
           <div class="line-dec"></div>
           <span><h5>Here is some of my Skills, Currenty I am working on Spring Boot and Angular</h5> </span>
         </div><br>
-
         <table class="table table-bordered nav-item">
           <thead>
             <tr>
@@ -199,60 +153,48 @@
             </tr>
           </thead>
           <tbody>
-
             <tr>
               <td class="text-center"> 01 </td>
               <td class="text-left"> Programming &amp; Markup Language   </td>
-              <td class="text-left">Java, JavaScript, Typescript, C++, HTML, UML, XML</td>
+              <td class="text-left">Java, JavaScript, Typescript, HTML, UML, XML</td>
             </tr>
-
             <tr>
               <td class="text-center"> 02 </td>
               <td class="text-left">Framework</td>
-              <td class="text-left">Spring, Spring Boot, Angular, Hibernate, Angular, Java-FX, Swing, Jasper Report etc.</td>
+              <td class="text-left">Spring, Spring Boot, Angular, Hibernate, Java-FX, Swing, Jasper Report, FOP Report etc.</td>
             </tr>
-
             <tr>
               <td class="text-center"> 03 </td>
               <td class="text-left"> Database </td>
-              <td class="text-left">MySQL, Oracle 11g, H2, SQLite, Firebase</td>
+              <td class="text-left">MySQL, Oracle 11g, SQLite</td>
             </tr>
-
             <tr>
               <td class="text-center"> 04 </td>
               <td class="text-left">Web Designing </td>
-              <td class="text-left">HTML, CSS, Bootstrap, JavaScript, jQuery</td>
+              <td class="text-left">HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax</td>
             </tr>
-
             <tr>
               <td class="text-center"> 05 </td>
               <td class="text-left">IDE (Used to) </td>
-              <td class="text-left">Eclipse(STS), NetBeans, Intellij Idea, Android Studio, Visual Studio Code</td>
+              <td class="text-left">Eclipse(STS), NetBeans, Android Studio, Visual Studio Code</td>
             </tr>
-
             <tr>
               <td class="text-center"> 06 </td>
               <td class="text-left">OS</td>
-              <td class="text-left">Windows, Linux (All Distributions) </td>
+              <td class="text-left">Windows</td>
             </tr>
-
             <tr>
               <td class="text-center"> 07 </td>
               <td class="text-left">Others</td>
               <td class="text-left">MS Office, GitHub</td>
             </tr>
-
-
           </tbody>
         </table>
         <br>
         <div class="text-left nav-item" style="width: 100%; border-radius: 10px;">
-             <h4> ❖ Languages:&nbsp;&nbsp;  <small>➀ Bengali &nbsp;&nbsp;&nbsp;
-                ➁ English &nbsp;&nbsp;&nbsp;  ➂ Hindi (Speaking) </small> </h4>
+             <h4> ❖ Languages:&nbsp;&nbsp;  <small>➀ Bengali &nbsp;&nbsp;&nbsp; ➁ English &nbsp;&nbsp;&nbsp;  ➂ Arabic (Speaking) </small> </h4>
         </div>
         <br>
-
-       
           <table class="table table-bordered nav-item" style="width: 100%; ">
             <thead>
               <tr>
@@ -263,500 +205,169 @@
               </tr>
             </thead>
             <tbody>
-  
               <tr>
                 <td class="text-center">M.A</td>
-                <td class="text-center"> 3.59 out of 4  </td>
-                <td class="text-center">Information Seicence &amp; Library Management, University of Dhaka</td>
+                <td class="text-center"> 3.33 out of 4  </td>
+                <td class="text-center">Islamic Studies, University of Dhaka</td>
                 <td class="text-center">1 Year</td>
               </tr>
-  
               <tr>
                 <td class="text-center">B.A</td>
-                <td class="text-center">3.33 out of 4	</td>
-                <td class="text-center">Information Seicence &amp; Library Management, University of Dhaka</td>
+                <td class="text-center">3.35 out of 4	</td>
+                <td class="text-center">Islamic Studies, National University</td>
                 <td class="text-center">4 Year</td>
               </tr>
-  
               <tr>
-                <td class="text-center"> H.S.C  </td>
-                <td class="text-center"> 5.00 out of 5 </td>
-                <td class="text-center">Sardah Mohabiddaloy</td>
+                <td class="text-center"> H.S.C </td>
+                <td class="text-center"> 3.25 out of 5 </td>
+                <td class="text-center">Gozri Islamia Fazil Madrasha</td>
                 <td class="text-center">2 Year</td>
               </tr>
-  
               <tr>
-                <td class="text-center"> S.S.C  </td>
-                <td class="text-center">4.56 out of 5 </td>
-                <td class="text-center">Anupompur High School</td>
+                <td class="text-center"> S.S.C </td>
+                <td class="text-center">4.31 out of 5 </td>
+                <td class="text-center">Chairman Bazar Islamia Dhakil Madrasah</td>
                 <td class="text-center">2 Year</td>
               </tr>
-  
             </tbody>
           </table>
-       
-
       </div>
     </section>
-
-
-    <section class="section my-work" data-section="section3">
-      <div class="container"><br>
-        <!-- section-heading -->
-        <div class="text-center">  
-          <h2> Work &amp; Experience</h2>
-          <hr class="bg-secondary">
-          <div class="line-dec"></div>
-          <span><h5>There are some of my projects features, links screenshot &amp; experience</h5> </span>
-        </div><br>
-
-        <div class="nav-item " style="border-radius: 10px;">
-
-         <h3><u> Project Details: </u></h3><br>
-         <h4 class="text-warning">❖ Web Application Project: <small>Project on University Management System</small>  </h4> 
-          <h5>➜ Description: 
-            <small class="">"<strong>University Management System</strong>" a comprehensive solution for managing all complex tasks of an university virtually and easily.
-            </small>
-          </h5>
-          <strong>This application is split-up in three interfaces where:</strong>
-          <div class="ml-3">
-            <p>1. University Administration able to manage students, teachers, staffs, subject and assign courses to the subject, producing reports, pay salary to all staffs, generate semester wise fees, residences, vehicles management etc.
-              <br>
-              2. Teacher can manage attendance, assign tasks/assignments, prepare results, collect students fees, prepare admit card, organize exam etc.
-              <br>
-              3. Student can pay fees, download admit card, view all notifications/assignments, view full result/result report/attendance/attendance report etc.
-            </p>
-          </div>
-          <h5>➜ Tools and Technologies used:</h5>  
-          <div class="ml-3">
-            <p>
-              <strong>Back-End: </strong>Spring Boot REST API with Spring Data JPA, Spring Security with JSON/JWT token based authentication, MySQL-8/MariaDB-10.
-              <br>
-              <strong>Front-End: </strong>Angular-12, Angular Material Design, TypeScript, JavaScript, JQuery, HTML5, CSS3, Bootstrap.
-            </p>
-          </div>
-          <h5>➜ Project Link: 
-            <a class="text-info" href="https://github.com/raihantopu/university-management-system" target="_blank">https://github.com/raihantopu/university-management-system</a> 
-          </h5> <br>
-
-          <h4 class="text-warning">❖ Android Project: <small>UMS (University Management System - Android)</small></h4> 
-           <h5>➜ Description: 
-            <small class="">
-                In order to simplify the use and user interaction of <strong>University Management System</strong> and to reach the most users possible  <strong>UMS-Android</strong> is developed.
-              </small>
-            </h5>
-            <strong>This application is split between two interfaces where:</strong>
-            <div class="ml-3">
-              <p>1. Teacher's can assign assignments, send notifications, generate different fees, manage attendance, generate attendance report for specific semester or student.
-                <br>
-                2. Student's can view their assigned assignments, notifications, attendance/result reports, pay different fees etc.</p>
-             </div>
-          <h5>➜ Tools and Technologies used:</h5>  
-          <div class="ml-3">
-            <p>
-              <strong>Back-End: </strong>Spring Boot REST API with Spring Data JPA, Spring Security with JSON/JWT token based authentication, MySQL-8/MariaDB-10.
-              <br>
-              <strong>Front-End: </strong>Android, Material Design.
-            </p>
-          </div> 
-          <h5>➜ Project Link: 
-            <a class="text-info" href="https://github.com/raihantopu/UMS-Android" target="_blank">https://github.com/raihantopu/UMS-Android</a> 
-          </h5> <br> 
-
-           <h4 class="text-warning">❖ Desktop Project: <small>Student Management System</small>  </h4> 
-           <h5>➜ Description: 
-             <small class="">"<strong>Student Management System</strong>" simplifies all the complex tasks like managing attendance, preparing results with semester and other fees,
-               payment, generating reports etc.
-             </small>
-           </h5>
-           <strong>This application is split between two interfaces where:</strong>
-           <div class="ml-3">
-            <p>1. Teacher's can assign assignments, send notifications, generate different fees, manage attendance, generate attendance report for specific semester or student.
-              <br>
-              2. Student's can view their assigned assignments, notifications, attendance/result reports, pay different fees etc.</p>
-           </div>
-           <h5>➜ Tools and Technologies used: <small>JAVA, JDK-1.8, JAVA-FX and MySQL-8.</small></h5>  
-           <h5>➜ Project Link: 
-             <a class="text-info" href="https://github.com/raihantopu/student_management_system" target="_blank">https://github.com/raihantopu/student_management_system</a> 
-           </h5>
-           <br>          
-          
-           <h4 class="text-warning">❖ JavaScript Project: <small>Grocery Shopping</small>  </h4> 
-           <h5>➜ Description: 
-             <small class="">"Grocery Shopping" is an online marketplace where customers can have a glance of all 'Food Related' products and buy those according to their needs.
-               </small>
-             </h5>
-             <h5>➜ Tools and Technologies used:<small>This site is made with HTML5, CSS3, JavaScript and JQuery.</small></h5>  
-           <h5>➜ Project Link: 
-             <a class="text-info" href="https://raihantopu.github.io/Grocery_Shop/index.html" target="_blank">https://raihantopu.github.io/Grocery_Shop/index.html</a> 
-           </h5> <br> 
-
-        </div>
-        <br>
-
-        <table class="table table-bordered nav-item" style="width: 100%; ">
-          <thead>
-            <tr>
-              <th class="text-center" colspan="4"> <h5>Experience</h5>  </th>
-            </tr>
-          </thead>
-          <tbody>
-
-            <tr>
-              <td class="text-center  font-weight-bold"><h5>Period</h5></td>
-              <td class="text-center  font-weight-bold"><h5>Employer</h5></td>
-              <td class="text-center  font-weight-bold"> <h5>Job Title</h5></td>
-              <th class="text-center  font-weight-bold"> <h5>Location</h5></th>
-            </tr>
-
-            <tr>
-              <td class="text-left">2018 - 2019</td>
-              <td class="text-left">Library Automation Program at (IBA Library - University of Dhaka)</td>
-              <td class="text-center">Supervisor &amp; Server Maintainance</td>
-              <th class="text-center">Dhaka, Bangladesh</th>
-            </tr>
-
-            <tr>
-              <td class="text-left">July 2019 – May 2021  </td>
-              <td class="text-left"> Contractual Service (IBA Library Website - University of Dhaka) </td>
-              <td class="text-center">Supervisor, Server Maintainance &amp; Developer</td>
-              <th class="text-center">Dhaka, Bangladesh</th>
-            </tr>
-
-            <tr>
-              <td class="text-left">2018 - 2019</td>
-              <td class="text-left">Library Automation Program at (Alia Madrasa Library - Alia Madrasa, Dhaka)</td>
-              <td class="text-center">Supervisor &amp; Server Maintainance</td>
-              <th class="text-center">Dhaka, Bangladesh</th>
-            </tr>
-
-            <tr>
-              <td class="text-left">July 2019 – May 2021  </td>
-              <td class="text-left"> Contractual Service (Desktop &amp; web application) </td>
-              <td class="text-center">Software Developer</td>
-              <th class="text-center">Dhaka, Bangladesh</th>
-            </tr>
-
-          </tbody>
-        </table>
-
-      </div>
-    </section>
-
-
-  <section class="section contact-me" data-section="section4">
-      <div class="container "><br>
-        <div class="text-center">
-          <h2> About Me </h2>
-          <hr class="bg-secondary">
-          <div class="line-dec"></div>
-          <div class="text-center">
-            <h5>I am pationate on developing and reproducing ideas into real products.</h5> 
-          </div>
-        </div>
-        <br>
-        <div class="row nav-item" style="border-radius: 10px;">
-          <div class="right-content">
-            <div class="container">
-              <h5>❖ I consider myself as a highly dedicated and responsible programmer seeks
-                 position with software company in order to utilize and develop my 
-                 extensive skills in computer programming, data analysis and developing.
-              </h5>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-<!----------------------- Profile Card ------------------------>
- <div class="row">
-          <div class="isotope-wrapper">
-            <form class="isotope-toolbar">
-              <label><input type="radio" data-type="*" checked="" name="isotope-filter" />
-                <span>all</span></label>
-              <label><input type="radio" data-type="people" name="isotope-filter" />
-                <span>Group-1</span></label>
-              <label><input type="radio" data-type="nature" name="isotope-filter" />
-                <span>Group-2</span></label>
-              <label><input type="radio" data-type="animals" name="isotope-filter" />
-                <span>Group-3</span></label>
-            </form><hr class="bg-secondary" style="width: 60%;">
-            
-            <div class="isotope-box">
-              <div class="isotope-item" data-type="nature">
-                <figure class="snip1321">
-                  <img src="assets/images/portfolio-01.jpg" alt="sq-sample26" />
-                  <figcaption>
-                    <a href="assets/images/portfolio-01.jpg" data-lightbox="image-1" data-title="Caption"><i
-                        class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="isotope-item" data-type="people">
-                <figure class="snip1321">
-                  <img src="assets/images/portfolio-02.jpg" alt="sq-sample26" />
-                  <figcaption>
-                    <a href="assets/images/portfolio-02.jpg" data-lightbox="image-1" data-title="Caption"><i
-                        class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="isotope-item" data-type="animals">
-                <figure class="snip1321">
-                  <img src="assets/images/portfolio-03.jpg" alt="sq-sample26" />
-                  <figcaption>
-                    <a href="assets/images/portfolio-03.jpg" data-lightbox="image-1" data-title="Caption"><i
-                        class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="isotope-item" data-type="people">
-                <figure class="snip1321">
-                  <img src="assets/images/portfolio-04.jpg" alt="sq-sample26" />
-                  <figcaption>
-                    <a href="assets/images/portfolio-04.jpg" data-lightbox="image-1" data-title="Caption"><i
-                        class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="isotope-item" data-type="nature">
-                <figure class="snip1321">
-                  <img src="assets/images/portfolio-05.jpg" alt="sq-sample26" />
-                  <figcaption>
-                    <a href="assets/images/portfolio-05.jpg" data-lightbox="image-1" data-title="Caption"><i
-                        class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="isotope-item" data-type="animals">
-                <figure class="snip1321">
-                  <img src="assets/images/portfolio-06.jpg" alt="sq-sample26" />
-                  <figcaption>
-                    <a href="assets/images/portfolio-06.jpg" data-lightbox="image-1" data-title="Caption"><i
-                        class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-    <br>
-      <div class="row">
-          <div class="col-md-6">
-                <figure class="snip1321" style="border-radius: 10px;">
-                  <img src="assets/images/portfolio-08.jpg" alt="sq-sample26">
-                  <figcaption>
-                    <a href="assets/images/portfolio-08.jpg" data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-          </div>
-
-          <div class="col-md-6">
-              <figure class="snip1321" style="border-radius: 10px;">
-                <img src="assets/images/portfolio-07.jpg" alt="sq-sample26">
-                <figcaption>
-                  <a href="assets/images/portfolio-07.jpg" data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
-                </figcaption>
-              </figure>            
-          </div>      
-      </div>
-
-
-      <br>
-      <div class="row">
-          <div class="col-md-6">
-                <figure class="snip1321" style="border-radius: 10px;">
-                  <img src="assets/images/portfolio-06.jpg" alt="sq-sample26">
-                  <figcaption>
-                    <a href="assets/images/portfolio-06.jpg" data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-          </div>
-
-          <div class="col-md-6">
-              <figure class="snip1321" style="border-radius: 10px;">
-                <img src="assets/images/portfolio-04.jpg" alt="sq-sample26">
-                <figcaption>
-                  <a href="assets/images/portfolio-04.jpg" data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
-                </figcaption>
-              </figure>            
-          </div>      
-      </div>
-
-      <br>
-      <div class="row">
-          <div class="col-md-6">
-                <figure class="snip1321" style="border-radius: 10px;">
-                  <img src="assets/images/portfolio-02.jpg" alt="sq-sample26">
-                  <figcaption>
-                    <a href="assets/images/portfolio-02.jpg" data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
-                  </figcaption>
-                </figure>
-          </div>
-
-          <div class="col-md-6">
-              <figure class="snip1321" style="border-radius: 10px;">
-                <img src="assets/images/portfolio-03.jpg" alt="sq-sample26">
-                <figcaption>
-                  <a href="assets/images/portfolio-03.jpg" data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
-                </figcaption>
-              </figure>            
-          </div>      
-      </div>
-
-        
-<br>              
-<!----------------- Poject Card ----------------------->
-<div class="row">
-  <div class="col-md-6" >
-    <div class="service-item" style="border-radius: 10px;">
-      <div class="first-service-icon service-icon"></div>
-      <h4>HTML5 &amp; CSS3</h4>
-      <p>
-        Phasellus non convallis dolor. Integer tempor hendrerit arcu
-        at bibendum. Sed ac ante non metus vehicula congue quis eget
-        eros.
-      </p>
-    </div>
-  </div>
-  <div class="col-md-6">
-    <div class="service-item" style="border-radius: 10px;">
-      <div class="second-service-icon service-icon"></div>
-      <h4>Creative Ideas</h4>
-      <p>
-        Proin lacus massa, eleifend sed fermentum in, dignissim vel
-        metus. Nunc accumsan leo nec felis porttitor, ultricies
-        faucibus purus mollis.
-      </p>
-    </div>
-  </div>
-  <div class="col-md-6" style="padding-top: 25px;">
-    <div class="service-item" style="border-radius: 10px;">
-      <div class="third-service-icon service-icon"></div>
-      <h4>Easy Customize</h4>
-      <p>
-        Integer suscipit condimentum aliquet. Nam quis risus metus.
-        Nullam faucibus quam eget arcu pretium tincidunt. Nam libero
-        dui.
-      </p>
-    </div>
-  </div>
-  <div class="col-md-6" style="padding-top: 25px;">
-    <div class="service-item" style="border-radius: 10px;" >
-      <div class="fourth-service-icon service-icon"></div>
-      <h4>My Vlogs</h4>
-      <p>
-        Vivamus et dui a massa venenatis fringilla. Proin lacus massa,
-        eleifend sed fermentum in, dignissim vel metus. Nunc accumsan
-        leo nec felis porttitor.
-      </p>
-    </div>
-  </div>
+    
+<h2>👀 My github Stats</h2> 
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaiman5" alt="GitHub Stats" /> <br/><br/>
 </div>
 
+![My github status](https://github-readme-stats.vercel.app/api?username=Sulaiman5&show_icons=true&include_all_commits=true)  &emsp; &emsp;
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaiman5&theme=white-green)
 
-    </section>
+<br>
+<br>
+&emsp; &emsp; &emsp; &emsp; &emsp;
+[![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
+<br>
+<br>
+<br>
 
+## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-    <section class="section contact-me" data-section="section5">
-      <div class="container">
-        <div class=""><br>
-          <h2 class="text-center"> Contact Me </h2>
-          <hr class="bg-secondary">
-          <div class="line-dec"></div>
-        </div>
-        <div class="">
-          <div class="right-content nav-item" style="border-radius: 10px; width: 100%;">
-            <div class="container">
+### 👉 Programming languages
 
-              <h5> ❖ Mailing address:   
-                 <small>Room No: 276, Sergent Zahurul Haque Hall, University of Dhaka
-                 </small> </h5>
-              <h5> ❖ Mobile &amp; WhatsApp :  <small>+88 01748117651</small> </h5>
-              <h5> ❖ E-mail :   <small class="text-info">topuraihan85@gmail.com</small> </h5>
-              <h5> ❖ Linkedin : <small><a class="text-info" href="https://www.linkedin.com/in/md-topu-raihan-a02115131/" target="_blank">https://www.linkedin.com/in/md-topu-raihan-a02115131/</a>  </small> </h5>
-            </div>
-          </div><br>
-
-        </div>
-      </div>
-    </section>
-
-
-  </div>
-  <!-------------- Last div --------------->
-
-
-
-
-  <!-- Scripts -->
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/isotope.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/lightbox.js"></script>
-  <script src="assets/js/custom.js"></script>
-
-  <script>
-    //according to loftblog tut
-    $(".main-menu li:first").addClass("active");
-
-    var showSection = function showSection(section, isAnimate) {
-      var direction = section.replace(/#/, ""),
-        reqSection = $(".section").filter(
-          '[data-section="' + direction + '"]'
-        ),
-        reqSectionPos = reqSection.offset().top - 0;
-
-      if (isAnimate) {
-        $("body, html").animate(
-          {
-            scrollTop: reqSectionPos
-          },
-          800
-        );
-      } else {
-        $("body, html").scrollTop(reqSectionPos);
-      }
-    };
-
-    var checkSection = function checkSection() {
-      $(".section").each(function () {
-        var $this = $(this),
-          topEdge = $this.offset().top - 80,
-          bottomEdge = topEdge + $this.height(),
-          wScroll = $(window).scrollTop();
-        if (topEdge < wScroll && bottomEdge > wScroll) {
-          var currentId = $this.data("section"),
-            reqLink = $("a").filter("[href*=\\#" + currentId + "]");
-          reqLink
-            .closest("li")
-            .addClass("active")
-            .siblings()
-            .removeClass("active");
-        }
-      });
-    };
-
-    $(".main-menu").on("click", "a", function (e) {
-      e.preventDefault();
-      showSection($(this).attr("href"), true);
-    });
-
-    $(window).scroll(function () {
-      checkSection();
-    });
-  </script>
+<p align="left"> 
+ &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   </a>
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/l%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+ 
+</p>
 
 
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://vuejs.org/" target="_blank"> 
+   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  </a>   
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://laravel.com/" target="_blank"> 
+   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a> 
+
+</p>
+
+### 👉 Databases
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.oracle.com/"><img alt="Oracle" width="100px" height="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></a>
+  &emsp;
+</p>
+
+### 👉 Software 
+<p>
+ &emsp;
+    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?style=plastic&logo=sublime-text&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
+  &emsp;
+</p>
+
+### 👉 Tools
+<p>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
+  &emsp;
+    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
+  &emsp;
+</p>
+
+<br>
+<br>
 
 
+##  🏆Github Profile Trophies
+<br>
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=Sulaiman5&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
+</p>
+<br>
+<br>
 
 
-<div id="lightboxOverlay" class="lightboxOverlay" style="width: 1349px; height: 6846px; display: none;"></div><div id="lightbox" class="lightbox" style="display: none; top: 5650px; left: 0px;"><div class="lb-outerContainer" style="width: 897px; height: 505px;"><div class="lb-container"><img class="lb-image" src="assets/images/portfolio-02.jpg" style="display: block; width: 897px; height: 505px;"><div class="lb-nav" style="display: block;"><a class="lb-prev" href="" style="display: block;"></a><a class="lb-next" href="" style="display: block;"></a></div><div class="lb-loader" style="display: none; opacity: 0.270675;"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer" style="display: block; width: 897px;"><div class="lb-data"><div class="lb-details"><span class="lb-caption" style="display: inline;">Caption</span><span class="lb-number">Image 5 of 6</span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div>
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  	<a href="https://Sulaiman5.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:mdsulaiman535@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Sulaiman5" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sulaiman-haulader-017b2a136/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/Sulaiman5/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/Sulaiman5" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
+
+<br>
+<br>
+<hr>
+Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
