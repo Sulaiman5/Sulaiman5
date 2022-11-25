@@ -117,11 +117,11 @@
               <td class="text-center">Enterprise 
                 Systems 
                 Analysis and 
-                Design       (ESAD - JEE) 
+                Design (ESAD - JEE) 
                 </td>
-              <td>HTML, CSS, Sass, JavaScript, jQuery
+              <td>HTML, CSS, JavaScript, jQuery, Ajax,
                 Bootstrap, Oracle 11g, MySQL, JAVA, Swing,  XML, UML, OOP,
-                JSP, JSF, JSTL, El, Thymeleaf, Hibernate, 
+                JSP, JSF, JSTL, Thymeleaf, Hibernate, 
                 Angular 6, Typescript, Spring MVC, 
                 Spring Boot, AOP, Spring Boot Security
                 Rest API, Multithreading, Jasper Report, Android using Java, SQL Lite, Firebase.
@@ -207,23 +207,23 @@
               <tr>
                 <td class="text-center">M.A</td>
                 <td class="text-center"> 3.33 out of 4  </td>
-                <td class="text-center">Islamic Stadies, University of Dhaka</td>
+                <td class="text-center">Islamic Studies, University of Dhaka</td>
                 <td class="text-center">1 Year</td>
               </tr>
               <tr>
                 <td class="text-center">B.A</td>
                 <td class="text-center">3.35 out of 4	</td>
-                <td class="text-center">Islamic Stadies, National University</td>
+                <td class="text-center">Islamic Studies, National University</td>
                 <td class="text-center">4 Year</td>
               </tr>
               <tr>
-                <td class="text-center"> H.S.C  </td>
+                <td class="text-center"> H.S.C </td>
                 <td class="text-center"> 3.25 out of 5 </td>
                 <td class="text-center">Gozri Islamia Fazil Madrasha</td>
                 <td class="text-center">2 Year</td>
               </tr>
               <tr>
-                <td class="text-center"> S.S.C  </td>
+                <td class="text-center"> S.S.C </td>
                 <td class="text-center">4.31 out of 5 </td>
                 <td class="text-center">Chairman Bazar Islamia Dhakil Madrasah</td>
                 <td class="text-center">2 Year</td>
@@ -232,14 +232,12 @@
           </table>
       </div>
     </section>
-
+    
 <h2>👀 My github Stats</h2> 
-
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaiman5" alt="GitHub Stats" /> <br/><br/>
-  
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Sulaiman5&show_icons=true&include_all_commits=true)  &emsp; &emsp;
@@ -247,8 +245,7 @@
 
 <br>
 <br>
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+&emsp; &emsp; &emsp; &emsp; &emsp;
 [![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
 <br>
 <br>
@@ -295,7 +292,6 @@
   </a>
 </p>
 
-
 ### 👉 Backend Development
 <p align="left"> 
   &emsp; 
@@ -314,7 +310,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="https://www.oracle.com/"><img alt="Oracle" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></a>
   &emsp;
 </p>
 
