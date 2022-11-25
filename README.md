@@ -240,7 +240,7 @@
 <br>
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp;
-[![Sulaiman5's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)](https://github.com/Sulaiman5/github-readme-ranking)
+Sulaiman5's github ranking(https://github-readme-ranking.vercel.app/api/rank?username=Sulaiman5&country_code=bangladesh&show_private=true)(https://github.com/Sulaiman5/github-readme-ranking)
 <br>
 <br>
 <br>
@@ -354,14 +354,9 @@
 <br>
 <hr>
 Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
-   <div class="right-content nav-item" style="border-radius: 10px; width: 100%;">
-            <div class="container">
-
-              <h5> ❖ Mailing address:   
-                 <small>Room No: 17/e, Shamibag land, Gandaria, Dhaka-100
-                 </small> </h5>
-              <h5> ❖ Mobile &amp; WhatsApp :  <small>+88 01764458438</small> </h5>
-              <h5> ❖ E-mail :   <small class="text-info">mdsulaiman535@gmail.com</small> </h5>
-              <h5> ❖ Linkedin : <small><a class="text-info" href="https://www.linkedin.com/in/sulaiman-haulader-017b2a136/" target="_blank">https://www.linkedin.com/in/sulaiman-haulader-017b2a136/</a></small> </h5>
-            </div>
-          </div><br>
+<h5> ❖ Mailing address:   
+ <small>Room No: 17/e, Shamibag land, Gandaria, Dhaka-100
+ </small> </h5>
+<h5> ❖ Mobile &amp; WhatsApp :  <small>+88 01764458438</small> </h5>
+<h5> ❖ E-mail :   <small class="text-info">mdsulaiman535@gmail.com</small> </h5>
+<h5> ❖ Linkedin : <small><a class="text-info" href="https://www.linkedin.com/in/sulaiman-haulader-017b2a136/" target="_blank">https://www.linkedin.com/in/sulaiman-haulader-017b2a136/</a></small> </h5>
