@@ -11,7 +11,6 @@
 </p>
 
 <br>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD+Sulaiman+Hawlader;professional+full+stack+developer;Spring Boot+%7C+Vue+js+%7C+JQuery+%7C+Ajax+%7C+JavaScript;MySQL%20|%20Oracle%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
 <br> 
 <h2><picture> <img src = "https://github.com/Sulaiman5/Sulaiman5/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
