@@ -1,3 +1,10 @@
+div{
+  background-color: hsla(89, 43%, 51%, 0.3);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+<div>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD Sulaiman</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sulaiman5&label=Profile%20views&color=32CD32&style=plastic" alt="Sulaiman5"/>
@@ -62,7 +69,7 @@
             </tr>
             <tr>
               <td class="text-center">Module - 03</td>
-              <td>Web Publishing (HTML, CSS, Bootstrap, JavaScript, jQuery)</td>
+              <td>Database Development using Oracle 11g (Mysql, SQL, SQLite)</td>
               <td class="text-center">120</td>
             </tr>
             <tr>
@@ -370,3 +377,5 @@
 <br>
 <hr>
 Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
+
+</div>
