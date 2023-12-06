@@ -338,23 +338,15 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.automationservicesbd.com/team" title="Website" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+<a href="https://www.automationservicesbd.com/team" title="Website" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+<a href="mailto:mdsulaiman535@gmail.com" title="Gmail"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/Sulaiman5" title="GitHub"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://twitter.com/mdsulaiman535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulaiman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sulaiman-haulader-017b2a136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulaiman" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100067139231989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sulaiman" height="30" width="40" /></a>
 <a href="https://instagram.com/Sulaiman5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulaiman" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXuw-1xfDQh-nFSuyGXEE3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sulaiman" height="30" width="40" /></a>
 </p>
-
-/* ## 🙋‍♀️ Let's Connect
-<p align="center">
-  	<a href="https://Sulaiman5.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:mdsulaiman535@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Sulaiman5" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sulaiman-haulader-017b2a136/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/Sulaiman5/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/Sulaiman5" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p> */
 <br>
 <hr>
 Credits: <a href="https://github.com/Sulaiman5">Sulaiman</a>
